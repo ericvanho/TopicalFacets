@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Tika">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/Tika" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$APPLICATION_HOME_DIR$/plugins/Tika" recursive="false" />
+  </library>
+</component>

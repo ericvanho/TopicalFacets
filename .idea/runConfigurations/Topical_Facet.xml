@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Topical_Facet" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ericvh.TDT.ApplicationManager" />
+    <module name="TopicalFacets" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
